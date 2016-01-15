@@ -1,0 +1,9 @@
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\bin\Debug\CockroachRaces.exe.config
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\bin\Debug\CockroachRaces.exe
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\bin\Debug\CockroachRaces.pdb
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Debug\CockroachRaces.csprojResolveAssemblyReference.cache
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Debug\CockroachRaces.Form1.resources
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Debug\CockroachRaces.Properties.Resources.resources
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Debug\CockroachRaces.csproj.GenerateResource.Cache
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Debug\CockroachRaces.exe
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Debug\CockroachRaces.pdb

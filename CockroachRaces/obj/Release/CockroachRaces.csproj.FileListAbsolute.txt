@@ -1,0 +1,18 @@
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\bin\Release\CockroachRaces.exe.config
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\bin\Release\CockroachRaces.exe
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\bin\Release\CockroachRaces.pdb
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.csprojResolveAssemblyReference.cache
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.Form1.resources
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.Properties.Resources.resources
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.csproj.GenerateResource.Cache
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.exe
+d:\илья\documents\visual studio 2013\Projects\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.pdb
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\bin\Release\CockroachRaces.exe.config
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.exe
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.pdb
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\bin\Release\CockroachRaces.exe
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\bin\Release\CockroachRaces.pdb
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.Form1.resources
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.Properties.Resources.resources
+C:\Users\Misha\Downloads\CockroachRaces\CockroachRaces\CockroachRaces\obj\Release\CockroachRaces.csproj.GenerateResource.Cache
